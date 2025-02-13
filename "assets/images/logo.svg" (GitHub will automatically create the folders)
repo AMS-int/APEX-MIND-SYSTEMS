@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Brain circuit logo -->
+  <path d="M40 50 A20 20 0 0 1 60 30 A20 20 0 0 1 80 50 A20 20 0 0 1 60 70 A20 20 0 0 1 40 50" 
+        fill="none" stroke="#0066cc" stroke-width="2"/>
+  <path d="M45 50 L75 50 M60 35 L60 65 M50 40 L70 60 M50 60 L70 40" 
+        stroke="#0066cc" stroke-width="2"/>
+  
+  <!-- Company name -->
+  <text x="100" y="45" font-family="Arial" font-size="24" font-weight="bold" fill="#0066cc">APEX MIND</text>
+  <text x="100" y="65" font-family="Arial" font-size="24" font-weight="bold" fill="#333333">SYSTEMS</text>
+  
+  <!-- Tagline -->
+  <text x="100" y="85" font-family="Arial" font-size="12" fill="#666666">Where Intelligence Meets Innovation</text>
+</svg>
